@@ -2,4 +2,4 @@ This is a algorithm for ordered selection
 
 O(log n)
 
-*** What this do?
+***What this do?

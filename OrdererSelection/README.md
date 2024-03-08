@@ -1,5 +1,5 @@
-###This is a algorithm for ordered selection
+# This is a algorithm for ordered selection
 
-#O(log n)
+### O(log n)
 
 #What this do?

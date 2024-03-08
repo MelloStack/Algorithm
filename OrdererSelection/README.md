@@ -4,6 +4,10 @@
 
 ## What this do?
 
+# RESUME
+
+### Get the smallest value and the index of him, return in a function, create other function to push the values to a new sort array
+
 ## GET SMALLEST VALUE
 
 ### Create a new function named getSmallestValue, that have an arr param
@@ -17,4 +21,4 @@
 ### create a new ordArray function with arr as param
 ### create a new array, add a while, (arr.length < 0), now call the smallestValue function and the param will be the param of this function, now just push the the value to the new arr we created,
 
-### remeber, you have to use the splice, otherwise will do not sort the values 
+### remeber, you have to use the splice, otherwise will do not sort the values
